@@ -1,0 +1,37 @@
+Arithmetic Operators:
+
+    + (Addition): Adds two operands.
+    - (Subtraction): Subtracts the right operand from the left operand.
+    * (Multiplication): Multiplies two operands.
+    / (Division): Divides the left operand by the right operand.
+    % (Modulus): Returns the remainder of the division of the left operand by the right operand.
+    ** (Exponentiation): Raises the left operand to the power of the right operand.
+    // (Floor Division): Returns the quotient of the division, discarding the remainder.
+
+Comparison Operators:
+
+    == (Equal to): True if the operands are equal.
+    != (Not equal to): True if the operands are not equal.
+    < (Less than): True if the left operand is less than the right operand.
+    > (Greater than): True if the left operand is greater than the right operand.
+    <= (Less than or equal to): True if the left operand is less than or equal to the right operand.
+    >= (Greater than or equal to): True if the left operand is greater than or equal to the right operand.
+
+Logical Operators:
+
+    and (Logical AND): True if both operands are true.
+    or (Logical OR): True if at least one operand is true.
+    not (Logical NOT): True if the operand is false, and false if the operand is true.
+
+Assignment Operators:
+
+    = (Assignment): Assigns the value on the right to the variable on the left.
+    += (Add and Assign): Adds the right operand to the left operand and assigns the result to the left operand.
+    -= (Subtract and Assign): Subtracts the right operand from the left operand and assigns the result to the left operand.
+    *= (Multiply and Assign): Multiplies the left operand by the right operand and assigns the result to the left operand.
+    /= (Divide and Assign): Divides the left operand by the right operand and assigns the result to the left operand.
+    %= (Modulus and Assign): Takes the modulus of the left operand with the right operand and assigns the result to the left operand.
+    **= (Exponentiate and Assign): Raises the left operand to the power of the right operand and assigns the result to the left operand.
+    //= (Floor Divide and Assign): Performs floor division on the left operand by the right operand and assigns the result to the left operand.
+
+These operators play a crucial role in performing various operations in Python programs.

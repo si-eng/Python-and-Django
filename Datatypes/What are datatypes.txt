@@ -1,0 +1,15 @@
+Python is a high-level, interpreted, and general-purpose programming language. 
+It was created by Guido van Rossum and first released in 1991. 
+Python is designed to be readable and has a syntax that allows developers to express concepts in fewer lines of code than languages like C++ or Java. 
+It supports multiple programming paradigms, including procedural, object-oriented, and functional programming
+
+Python Data types n Python, data types are classifications that categorize various types of data. Python supports several built-in data types, and here are some of the most common ones:
+
+    Integers (int): Whole numbers without any decimal points.
+    Floats (float): Numbers with decimal points or numbers written in scientific notation.
+    Strings (str): Sequences of characters, enclosed in single or double quotes.
+    Booleans (bool): Logical values representing either True or False.
+    Lists (list): Ordered collections of items, which can be of different data types.
+    Tuples (tuple): Similar to lists, but immutable (cannot be modified once created).
+    Dictionaries (dict): Unordered collections of key-value pairs.
+    Sets (set): Unordered collections of unique items.

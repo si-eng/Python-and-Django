@@ -9,3 +9,5 @@ result_not = not is_python_fun
 print("AND:", result_and)
 print("OR:", result_or)
 print("NOT:", result_not)
+
+
